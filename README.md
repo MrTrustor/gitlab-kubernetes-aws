@@ -10,7 +10,7 @@ References:
 
 * [Gitlab on Kubernetes + AWS](http://blog.mrtrustor.net/post/gitlab-on-k8s/),
   English version,
-* [Gitlab on Kubernetes + AWS](http://www.tocomplete.com), version française,
+* [Gitlab on Kubernetes + AWS](http://www.oxalide.com/2016/11/gitlab-sur-kubernetes/), version française,
 * [Kubernetes sur AWS - Kops](http://blog.mrtrustor.net/post/k8s-aws-kops/),
   English version,
 * [Kubernetes sur AWS - Kops](http://www.oxalide.com/2016/11/kubernetes-sur-aws-kops/),
